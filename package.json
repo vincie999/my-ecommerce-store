@@ -1,0 +1,27 @@
+{
+  "name": "my-ecommerce-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincie999/my-ecommerce-store.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/vincie999/my-ecommerce-store/issues"
+  },
+  "homepage": "https://github.com/vincie999/my-ecommerce-store#readme",
+  "dependencies": {
+    "dotenv": "^18.0.4",
+    "express": "^5.2.1",
+    "request": "^2.88.2",
+    "stripe": "^22.6.2"
+  }
+}
